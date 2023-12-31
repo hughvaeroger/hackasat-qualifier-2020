@@ -1,0 +1,4 @@
+deb http://repo.huaweicloud.com/debian/ buster main contrib non-free
+deb http://repo.huaweicloud.com/debian/ buster-update main contrib non-free
+deb http://repo.huaweicloud.com/debian/ buster-backports main contrib non-free
+deb http://repo.huaweicloud.com/debian/ buster-security main contrib non-free
